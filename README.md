@@ -1,1 +1,5 @@
-# T197_M24CD_Thiago_Naoki
+Thiago Naoki 2413115
+Antônio Kauê 2413111
+Pedro Roger 2413099
+Murilo Donato 2410365
+Tales Bessa 
