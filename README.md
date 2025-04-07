@@ -6,12 +6,7 @@ Pedro Roger 2413099
 
 joao pedro queiroz 2310318
 
+Murilo Donato 2410365
+
 
 -----------------------------------------------
-
-Projeto 1: Registro de Ponto (lado cliente)
------------------------------------------------
-Perguntas
-
-1. Como o sistema vai registrar o login? Por email, telefone ou outro..?
-2. 
