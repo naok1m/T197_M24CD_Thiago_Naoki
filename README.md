@@ -8,5 +8,5 @@ joao pedro queiroz 2310318
 
 Murilo Donato 2410365
 
-
+Link snack: https://snack.expo.dev/@naok1m/appadvogados
 -----------------------------------------------
